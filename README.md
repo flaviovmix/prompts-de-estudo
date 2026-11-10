@@ -1,0 +1,22 @@
+# Prompts de estudo
+
+Um prompt por aula. Abra a aula, copie o texto e cole numa IA (ChatGPT, Claude, Gemini):
+ela vira o seu professor daquela aula e começa pelo nível fácil.
+
+## Java Web
+
+- [1.01 · A página é um arquivo de texto](java-web/1.01-a-pagina-e-um-arquivo-de-texto.md)
+- [2.01 · Três caminhos pro mesmo estilo](java-web/2.01-tres-caminhos-pro-mesmo-estilo.md)
+- [3.01 · O clique que muda a página](java-web/3.01-o-clique-que-muda-a-pagina.md)
+- [4.01 · Decidir e repetir](java-web/4.01-decidir-e-repetir.md)
+- [5.01 · A página que se atualiza sozinha](java-web/5.01-a-pagina-que-se-atualiza-sozinha.md)
+
+## Java para a Web
+
+- [1.01 · O JDK e o main](java-para-a-web/1.01-o-jdk-e-o-main.md)
+- [1.02 · Preparar o ambiente](java-para-a-web/1.02-preparar-o-ambiente.md)
+- [1.03 · Preparar a interface do LabApp](java-para-a-web/1.03-preparar-a-interface-do-labapp.md)
+- [1.04 · Preparar o banco](java-para-a-web/1.04-preparar-o-banco.md)
+- [1.05 · Ligar o banco](java-para-a-web/1.05-ligar-o-banco.md)
+- [1.06 · Salvar a tarefa](java-para-a-web/1.06-salvar-a-tarefa.md)
+- [1.07 · Editar, concluir e excluir](java-para-a-web/1.07-editar-concluir-e-excluir.md)
