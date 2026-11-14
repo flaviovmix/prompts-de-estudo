@@ -25,6 +25,8 @@ Quando a aula manda baixar um arquivo ou copiar um código, ele está no **mater
 
 ## Git e GitHub
 
+- [1.01 · A pasta que o Git vigia](git-e-github/1.01-a-pasta-que-o-git-vigia.md)
+- [1.02 · O que não entra e a primeira versão](git-e-github/1.02-o-que-nao-entra-e-a-primeira-versao.md)
 - [1.03 · O primeiro push](git-e-github/1.03-o-primeiro-push.md)
 
 ## Docker
