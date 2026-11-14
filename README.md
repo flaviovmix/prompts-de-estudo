@@ -40,3 +40,7 @@ Quando a aula manda baixar um arquivo ou copiar um código, ele está no **mater
 - [1.01 · A história do parque](ingles-do-zero/1.01-a-historia-do-parque.md)
 - [1.02 · O encontro](ingles-do-zero/1.02-o-encontro.md)
 - [1.03 · O nome do cachorro](ingles-do-zero/1.03-o-nome-do-cachorro.md)
+
+## Segurança pra quem programa com IA
+
+- [0.01 · As cinco portas](seguranca/0.01-as-cinco-portas.md)
