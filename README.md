@@ -16,7 +16,7 @@ Quando a aula manda baixar um arquivo ou copiar um código, ele está no **mater
 ## Java para a Web
 
 - [1.01 · O JDK e o main](java-para-a-web/1.01-o-jdk-e-o-main.md)
-- [1.02 · Preparar o ambiente](java-para-a-web/1.02-preparar-o-ambiente.md)
+- [1.02 · Preparar o ambiente](java-para-a-web/1.02-preparar-o-ambiente.md) · [material](java-para-a-web/material/1.02-preparar-o-ambiente/)
 - [1.03 · Preparar a interface do LabApp](java-para-a-web/1.03-preparar-a-interface-do-labapp.md) · [material](java-para-a-web/material/1.03-preparar-a-interface-do-labapp/)
 - [1.04 · Preparar o banco](java-para-a-web/1.04-preparar-o-banco.md) · [material](java-para-a-web/material/1.04-preparar-o-banco/)
 - [1.05 · Ligar o banco](java-para-a-web/1.05-ligar-o-banco.md) · [material](java-para-a-web/material/1.05-ligar-o-banco/)
