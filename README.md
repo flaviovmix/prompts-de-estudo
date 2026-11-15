@@ -44,3 +44,11 @@ Quando a aula manda baixar um arquivo ou copiar um código, ele está no **mater
 ## Segurança pra quem programa com IA
 
 - [0.01 · As cinco portas](seguranca/0.01-as-cinco-portas.md)
+
+## A máquina aprende a jogar
+
+O jogo do curso, pra baixar: [material](a-maquina-aprende-a-jogar/material/)
+
+- [1.01 · Ninguém ensina o jogo](a-maquina-aprende-a-jogar/1.01-ninguem-ensina-o-jogo.md)
+- [1.02 · O jogo por dentro](a-maquina-aprende-a-jogar/1.02-o-jogo-por-dentro.md)
+- [1.03 · Os olhos](a-maquina-aprende-a-jogar/1.03-os-olhos.md)

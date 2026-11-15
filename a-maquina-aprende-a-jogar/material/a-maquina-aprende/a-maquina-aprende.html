@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>A máquina aprende a jogar</title>
+    <link rel="stylesheet" href="pagina.css">
+  </head>
+  <body>
+    <header class="cabecalho">
+      <h1 class="cabecalho-titulo">A máquina aprende a jogar</h1>
+      <p class="cabecalho-recado">O jogo do curso. Jogue você, ou deixe a máquina treinar.</p>
+    </header>
+
+    <main class="jogo">
+      <canvas class="jogo-tela" width="1280" height="720">O jogo precisa de um navegador que desenhe em canvas.</canvas>
+
+      <div class="controles">
+        <nav class="modos" aria-label="Quem joga">
+          <button class="modos-botao" type="button" data-modo="eu">EU JOGO <kbd>J</kbd></button>
+          <button class="modos-botao" type="button" data-modo="maquina">A MÁQUINA TREINA <kbd>T</kbd></button>
+        </nav>
+        <nav class="pressa" aria-label="Pressa do treino">
+          <span class="pressa-rotulo">pressa do treino</span>
+          <button class="pressa-botao" type="button" data-pressa="1">1× <kbd>1</kbd></button>
+          <button class="pressa-botao" type="button" data-pressa="4">4× <kbd>2</kbd></button>
+          <button class="pressa-botao" type="button" data-pressa="16">16× <kbd>3</kbd></button>
+        </nav>
+      </div>
+    </main>
+
+    <footer class="teclas">
+      <kbd>ESPAÇO</kbd> pula
+      <span class="teclas-ponto">·</span>
+      <kbd>ENTER</kbd> recomeça
+    </footer>
+
+    <!-- O JOGO: vem pronto. -->
+    <script src="jogo/pincel.js"></script>
+    <script src="jogo/sorteio.js"></script>
+    <script src="jogo/robo.js"></script>
+    <script src="jogo/pista.js"></script>
+    <script src="jogo/corredor.js"></script>
+    <script src="jogo/partida.js"></script>
+    <script src="jogo/teclado.js"></script>
+    <script src="jogo/tela.js"></script>
+    <script src="jogo/placar.js"></script>
+
+    <!-- O TREINAMENTO: é aqui que o curso mexe. -->
+    <script src="treinamento/olhos.js"></script>
+    <script src="treinamento/cerebro.js"></script>
+    <script src="treinamento/evolucao.js"></script>
+
+    <!-- Liga tudo e começa. -->
+    <script src="comeca.js"></script>
+  </body>
+</html>
