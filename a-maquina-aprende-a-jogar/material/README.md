@@ -23,3 +23,5 @@ O sorteio do treino sai sempre igual (semente 12): sem mexer em nada, você deve
 No módulo 2, cada aula muda uma coisa só no jogo. O jogo de cada aula vem pronto, num zip igual ao de cima, com a mudança já feita; o resto é o mesmo jogo.
 
 - [2.01 · O jogo mais rápido](2.01-o-jogo-mais-rapido.zip): a velocidade máxima passa de 20 pra 30, no topo de jogo/partida.js. O código aberto está na pasta [2.01-o-jogo-mais-rapido](2.01-o-jogo-mais-rapido/).
+- [2.02 · O pássaro](2.02-o-passaro.zip): 2 em cada 10 obstáculos viram um pássaro, que voa de 100 a 160 do chão (jogo/pista.js, com o desenho dele), e a batida passa a olhar o vão embaixo (jogo/corredor.js). O código aberto está na pasta [2.02-o-passaro](2.02-o-passaro/).
+- [2.03 · O pulo duplo](2.03-o-pulo-duplo.zip): um segundo pulo no ar, de graça, a partir do 6º passo do primeiro (jogo/corredor.js). O código aberto está na pasta [2.03-o-pulo-duplo](2.03-o-pulo-duplo/).
