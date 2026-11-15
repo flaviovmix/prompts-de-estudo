@@ -17,3 +17,9 @@ Dentro da pasta:
 Quer só ler o código? Ele está aberto aqui, na pasta [a-maquina-aprende](a-maquina-aprende/).
 
 O sorteio do treino sai sempre igual (semente 12): sem mexer em nada, você deve ver a mesma história das aulas. Mexeu numa conta do treinamento, a história muda.
+
+## Módulo 2: o jogo de cada aula
+
+No módulo 2, cada aula muda uma coisa só no jogo. O jogo de cada aula vem pronto, num zip igual ao de cima, com a mudança já feita; o resto é o mesmo jogo.
+
+- [2.01 · O jogo mais rápido](2.01-o-jogo-mais-rapido.zip): a velocidade máxima passa de 20 pra 30, no topo de jogo/partida.js. O código aberto está na pasta [2.01-o-jogo-mais-rapido](2.01-o-jogo-mais-rapido/).

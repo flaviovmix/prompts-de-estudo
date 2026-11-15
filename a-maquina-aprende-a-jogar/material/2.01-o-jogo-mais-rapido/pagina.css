@@ -1,0 +1,150 @@
+/* A cara da página do jogo: as mesmas cores das aulas (fundo de noite, coral, menta e âmbar). */
+
+/* A letra dos títulos, Bebas Neue (licença OFL), vem junto na pasta letras pra página não depender de internet. */
+@font-face {
+  font-family: "Bebas Neue";
+  font-style: normal;
+  font-weight: 400;
+  src: url("letras/bebas-neue-latin.woff2") format("woff2");
+}
+
+:root {
+  --cor-noite: #0d0a09;
+  --cor-tinta: #191513;
+  --cor-papel: #f4efe6;
+  --cor-cinza: #8d857c;
+  --cor-cinza-escuro: #4a4440;
+  --cor-coral: #e2614b;
+  --cor-ambar: #e6b450;
+  --letra-titulo: "Bebas Neue", Impact, sans-serif;
+  --letra-codigo: "Cascadia Mono", Consolas, monospace;
+  --largura-do-jogo: 1280px;
+}
+
+body {
+  margin: 0;
+  padding: 24px 16px 40px;
+  background: var(--cor-noite);
+  color: var(--cor-papel);
+  font-family: var(--letra-codigo);
+}
+
+kbd {
+  padding: 2px 8px;
+  border: 1px solid var(--cor-cinza-escuro);
+  border-radius: 6px;
+  color: var(--cor-cinza);
+  font-family: var(--letra-codigo);
+  font-size: 0.8em;
+}
+
+/* ---------- o cabeçalho ---------- */
+
+.cabecalho {
+  max-width: var(--largura-do-jogo);
+  margin: 0 auto 16px;
+}
+
+.cabecalho-titulo {
+  margin: 0;
+  color: var(--cor-coral);
+  font-family: var(--letra-titulo);
+  font-size: 56px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  line-height: 1;
+}
+
+.cabecalho-recado {
+  margin: 6px 0 0;
+  color: var(--cor-cinza);
+  font-size: 16px;
+}
+
+/* ---------- a tela do jogo ---------- */
+
+.jogo {
+  max-width: var(--largura-do-jogo);
+  margin: 0 auto;
+}
+
+.jogo-tela {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 2px solid var(--cor-cinza-escuro);
+  border-radius: 16px;
+}
+
+/* ---------- os botões embaixo da tela ---------- */
+
+.controles {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.modos,
+.pressa {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.modos-botao,
+.pressa-botao {
+  padding: 10px 18px;
+  border: 2px solid var(--cor-cinza-escuro);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--cor-papel);
+  font-family: var(--letra-codigo);
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.modos-botao:hover,
+.pressa-botao:hover {
+  border-color: var(--cor-papel);
+}
+
+.modos-botao[aria-pressed="true"] {
+  border-color: var(--cor-coral);
+  background: var(--cor-coral);
+  color: var(--cor-tinta);
+}
+
+.modos-botao[aria-pressed="true"] kbd {
+  border-color: var(--cor-tinta);
+  color: var(--cor-tinta);
+}
+
+.pressa-botao[aria-pressed="true"] {
+  border-color: var(--cor-ambar);
+  color: var(--cor-ambar);
+}
+
+.pressa-rotulo {
+  color: var(--cor-cinza);
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+/* ---------- as teclas no rodapé ---------- */
+
+.teclas {
+  max-width: var(--largura-do-jogo);
+  margin: 20px auto 0;
+  color: var(--cor-cinza);
+  font-size: 15px;
+}
+
+.teclas-ponto {
+  margin: 0 10px;
+}
