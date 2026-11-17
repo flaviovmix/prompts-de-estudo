@@ -57,3 +57,11 @@ O jogo do curso, pra baixar: [material](a-maquina-aprende-a-jogar/material/)
 - [2.01 · O jogo mais rápido](a-maquina-aprende-a-jogar/2.01-o-jogo-mais-rapido.md) · [jogo da aula](a-maquina-aprende-a-jogar/material/2.01-o-jogo-mais-rapido/)
 - [2.02 · O pássaro](a-maquina-aprende-a-jogar/2.02-o-passaro.md) · [jogo da aula](a-maquina-aprende-a-jogar/material/2.02-o-passaro/)
 - [2.03 · O pulo duplo](a-maquina-aprende-a-jogar/2.03-o-pulo-duplo.md) · [jogo da aula](a-maquina-aprende-a-jogar/material/2.03-o-pulo-duplo/)
+
+## Blender e Unreal na Era da IA
+
+- [1.01 · A mesa do Blender](blender-unreal/1.01-a-mesa-do-blender.md)
+- [1.02 · O kart da IA chega](blender-unreal/1.02-o-kart-da-ia-chega.md) · [material](blender-unreal/material/1.02-o-kart-da-ia-chega/)
+- [2.01 · A mesa do Unreal](blender-unreal/2.01-a-mesa-do-unreal.md)
+- [2.02 · O kart e a árvore chegam](blender-unreal/2.02-o-kart-e-a-arvore-chegam.md) · [material](blender-unreal/material/2.02-o-kart-e-a-arvore-chegam/)
+- [2.03 · O kart anda](blender-unreal/2.03-o-kart-anda.md)
