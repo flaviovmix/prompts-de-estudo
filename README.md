@@ -59,6 +59,7 @@ O jogo do curso, pra baixar: [material](a-maquina-aprende-a-jogar/material/)
 - [2.02 · O pássaro](a-maquina-aprende-a-jogar/2.02-o-passaro.md) · [jogo da aula](a-maquina-aprende-a-jogar/material/2.02-o-passaro/)
 - [2.03 · O pulo duplo](a-maquina-aprende-a-jogar/2.03-o-pulo-duplo.md) · [jogo da aula](a-maquina-aprende-a-jogar/material/2.03-o-pulo-duplo/)
 - [2.04 · O pulo que custa](a-maquina-aprende-a-jogar/2.04-o-pulo-que-custa.md) · [jogo da aula](a-maquina-aprende-a-jogar/material/2.04-o-pulo-que-custa/)
+- [2.05 · O olho do próprio pulo](a-maquina-aprende-a-jogar/2.05-o-olho-do-proprio-pulo.md) · [jogo da aula](a-maquina-aprende-a-jogar/material/2.05-o-olho-do-proprio-pulo/)
 
 ## Blender e Unreal na Era da IA
 
