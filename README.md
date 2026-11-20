@@ -22,6 +22,7 @@ Quando a aula manda baixar um arquivo ou copiar um código, ele está no **mater
 - [1.05 · Ligar o banco](java-para-a-web/1.05-ligar-o-banco.md) · [material](java-para-a-web/material/1.05-ligar-o-banco/)
 - [1.06 · Salvar a tarefa](java-para-a-web/1.06-salvar-a-tarefa.md) · [material](java-para-a-web/material/1.06-salvar-a-tarefa/)
 - [1.07 · Editar, concluir e excluir](java-para-a-web/1.07-editar-concluir-e-excluir.md) · [material](java-para-a-web/material/1.07-editar-concluir-e-excluir/)
+- [1.08 · Entrar com senha](java-para-a-web/1.08-entrar-com-senha.md) · [material](java-para-a-web/material/1.08-entrar-com-senha/)
 
 ## Git e GitHub
 
