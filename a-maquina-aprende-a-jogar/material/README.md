@@ -27,3 +27,7 @@ No módulo 2, cada aula muda uma coisa só no jogo. O jogo de cada aula vem pron
 - [2.03 · O pulo duplo](2.03-o-pulo-duplo.zip): um segundo pulo no ar, de graça, a partir do 6º passo do primeiro (jogo/corredor.js). O código aberto está na pasta [2.03-o-pulo-duplo](2.03-o-pulo-duplo/).
 - [2.04 · O pulo que custa](2.04-o-pulo-que-custa.zip): em cima do pulo duplo, cada pulo gasta 25 de energia; o robô começa com 100, sem 25 não pula, e a energia volta meio ponto por passo (jogo/corredor.js). Quando é você que joga, a energia aparece no placar. O código aberto está na pasta [2.04-o-pulo-que-custa](2.04-o-pulo-que-custa/).
 - [2.05 · O olho do próprio pulo](2.05-o-olho-do-proprio-pulo.zip): em cima do pulo que custa, um quarto olho em treinamento/olhos.js, a altura do próprio robô dividida por 100 (zero no chão); o cérebro ganha sozinho um peso a mais em cada neurônio do meio. A energia aparece no placar quando é você que joga. O código aberto está na pasta [2.05-o-olho-do-proprio-pulo](2.05-o-olho-do-proprio-pulo/).
+
+## Módulo 3: o jogo com sensores
+
+O módulo 3 revê o treinamento por dentro, com o mesmo jogo de sempre escrito de outro jeito: [jogo-com-sensores.zip](jogo-com-sensores.zip). O arquivo dos olhos se chama sensores (treinamento/sensores.js) e o código do treinamento tem uma ordem por linha, pra cada passo caber grande na tela. O robô é o mesmo: treinado no sorteio do curso, ele dá os mesmos cérebros, número por número, que o jogo de cima. O código aberto está na pasta [jogo-com-sensores](jogo-com-sensores/).

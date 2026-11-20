@@ -60,6 +60,8 @@ O jogo do curso, pra baixar: [material](a-maquina-aprende-a-jogar/material/)
 - [2.03 · O pulo duplo](a-maquina-aprende-a-jogar/2.03-o-pulo-duplo.md) · [jogo da aula](a-maquina-aprende-a-jogar/material/2.03-o-pulo-duplo/)
 - [2.04 · O pulo que custa](a-maquina-aprende-a-jogar/2.04-o-pulo-que-custa.md) · [jogo da aula](a-maquina-aprende-a-jogar/material/2.04-o-pulo-que-custa/)
 - [2.05 · O olho do próprio pulo](a-maquina-aprende-a-jogar/2.05-o-olho-do-proprio-pulo.md) · [jogo da aula](a-maquina-aprende-a-jogar/material/2.05-o-olho-do-proprio-pulo/)
+- [3.01 · Os sensores](a-maquina-aprende-a-jogar/3.01-os-sensores.md) · [jogo do módulo 3](a-maquina-aprende-a-jogar/material/jogo-com-sensores/)
+- [3.02 · Um neurônio nasce](a-maquina-aprende-a-jogar/3.02-um-neuronio-nasce.md) · [jogo do módulo 3](a-maquina-aprende-a-jogar/material/jogo-com-sensores/)
 
 ## Blender e Unreal na Era da IA
 
