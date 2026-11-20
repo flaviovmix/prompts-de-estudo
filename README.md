@@ -72,3 +72,8 @@ O jogo do curso, pra baixar: [material](a-maquina-aprende-a-jogar/material/)
 - [2.01 · A mesa do Unreal](blender-unreal/2.01-a-mesa-do-unreal.md)
 - [2.02 · O kart e a árvore chegam](blender-unreal/2.02-o-kart-e-a-arvore-chegam.md) · [material](blender-unreal/material/2.02-o-kart-e-a-arvore-chegam/)
 - [2.03 · O kart anda](blender-unreal/2.03-o-kart-anda.md)
+
+## JSON na Prática
+
+- [1.01 · O que é JSON](json-na-pratica/1.01-o-que-e-json.md) · [material](json-na-pratica/material/1.01-o-que-e-json/)
+- [1.02 · Os valores e o objeto](json-na-pratica/1.02-os-valores-e-o-objeto.md) · [material](json-na-pratica/material/1.02-os-valores-e-o-objeto/)
